@@ -1,0 +1,17 @@
+RELATÓRIO DE PRODUÇÃO DOS BÔNUS
+Páginas solicitadas: 29
+Páginas geradas: 29
+Páginas sem arquivo final: 0
+Tentativas por página: consultar relatorio.csv.
+Chamadas adicionais para páginas repetidas: 35
+Páginas que precisaram de regeneração: 25
+Total de chamadas de geração: 64
+Geração: uma chamada ChatGPT Image por página; modelo interno não exposto pela ferramenta.
+Não foram geradas capas ou páginas de referências.
+Comparativos: proposta editorial usada porque a lista anterior aprovada não estava disponível.
+Flashcards 01 a 04: novos. Arquivos aprovados 05 a 10 não estavam acessíveis e não foram refeitos nem incluídos.
+As páginas contêm esquemas sintéticos educacionais. Revisão especializada pendente.
+Não foi feita validação clínica dos padrões ou de critérios [CONFERIR].
+Os PDFs preservam a proporção das imagens, centralizadas em folhas A4.
+Os PDFs incluem marcadores de navegação por título, sem acrescentar páginas.
+Resolução dos PNGs finais: 1024 × 1536 pixels; não se declara resolução 4K.
